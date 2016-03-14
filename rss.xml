@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[reddolan]]></title>
+        <description><![CDATA[reddolan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 01:08:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Starting Running]]></title>
+            <description><![CDATA[<article><h1>Starting Running</h1><p>I run because I want to set a healthy example for my sons and family. I run because it motivates me in many other areas of my life. I run for the shirts, bibs, and medals. I run to keep strong and feel young. I run to break personal boundaries.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8860090-7d21-40b3-91e1-34b2747b92f7.png"></article>]]></description>
+            <link>undefinedwhy-i-run/index.html</link>
+            <guid isPermaLink="false">1fe348b6-1251-4020-a608-9b6b3801cbe7</guid>
+            <pubDate>Mon, 14 Mar 2016 01:07:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
