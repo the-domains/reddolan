@@ -2,6 +2,7 @@ name: reddolan
 favicon: null
 layout_spectrum: 0.257
 typography_spectrum: 0.56318
+title: Red Dolan
 cta:
   domain: null
   bucket: null
